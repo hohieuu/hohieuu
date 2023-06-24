@@ -493,7 +493,7 @@ https://go.dev/talks/2012/concurrency.slide#7 +
 
 https://www.geeksforgeeks.org/golang-goroutine-vs-thread/
 
-<iframe width="684" height="385" src="https://www.youtube.com/embed/f6kdp27TYZs" title="Google I/O 2012 - Go Concurrency Patterns" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=f6kdp27TYZs
 
 # **Todos:**
 
