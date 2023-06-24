@@ -44,3 +44,17 @@ https://dzone.com/articles/database-btree-indexing-in-sqlite
 https://hakibenita.com/postgresql-hash-index
 
 http://sqlfiddle.com/#!15/37175/1
+
+
+---
+
+
+# DATABASE replication
+
+![Untitled](./images/db-replication.png)
+![Untitled](./images/db-replication-2.png)
+![Untitled](./images/db-replication-3.png)
+
+# Refs:
+System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf
+
