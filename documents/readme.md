@@ -1,5 +1,3 @@
-// make a link to my go lang md 
-
 # Mobile
 ## Flutter: [Flutter](./mobile/flutter.md)
 ---
