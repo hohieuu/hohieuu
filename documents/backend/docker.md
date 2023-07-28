@@ -58,3 +58,4 @@ Size: ~25mb
 
 # REF:
 https://stackoverflow.com/questions/52083380/in-docker-image-names-what-is-the-difference-between-alpine-jessie-stretch-an
+https://www.docker.com/blog/how-to-use-the-alpine-docker-official-image/
