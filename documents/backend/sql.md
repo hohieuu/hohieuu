@@ -10,3 +10,7 @@ SELECT
     ,query_start
     ,query  
 FROM pg_stat_activity
+
+# RLS 
+
+https://www.postgresql.org/docs/current/sql-createpolicy.html
