@@ -23,4 +23,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=hohieuu&exclude_days=Sun&theme=merko&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hohieuu&exclude_days=Sun%2CSat&theme=merko&border_radius=10)](https://git.io/streak-stats)
